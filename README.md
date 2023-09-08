@@ -12,4 +12,4 @@
 > * ERD - диаграмма:
 ![erd.png](erd.png)
 
-> [Json файл](https://github.com/Gregorian1489/HT009ARCHECTURE/openapi.json)
+> [Json файл](https://github.com/Gregorian1489/HT009ARCHECTURE/blob/main/openapi.json)
